@@ -1,0 +1,1 @@
+cd ex1-init-depot && npx --no -- commitlint --edit "$1"

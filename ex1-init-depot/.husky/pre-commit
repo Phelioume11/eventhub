@@ -1,0 +1,1 @@
+node ex1-init-depot/node_modules/lint-staged/bin/lint-staged.js --config ex1-init-depot/lint-staged.config.js
