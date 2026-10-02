@@ -1,0 +1,11 @@
+type: feature	1D76DB	Nouvelle fonctionnalité
+type: bug	D73A4A	Comportement incorrect
+type: docs	0075CA	Documentation
+type: chore	C5DEF5	Maintenance, outillage
+type: devops	5319E7	Docker, CI/CD, infra
+priority: high	B60205	À traiter en priorité
+priority: medium	FBCA04	Priorité normale
+priority: low	0E8A16	Peut attendre
+area: api	BFD4F2	Back-end
+area: front	D4C5F9	Front-end
+status: blocked	000000	Bloqué par une dépendance
